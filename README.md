@@ -1,5 +1,6 @@
-# A simple MERN stack application : ITI Supervisor: https://github.com/Ranaahmedit
-
+# A simple MERN stack application 
+ ITI Supervisor: https://github.com/Ranaahmedit
+ 
 ### Create a network for the docker containers
 
 `docker network create demo`
