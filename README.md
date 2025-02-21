@@ -38,3 +38,7 @@ docker build -t mern-backend .
 
 `docker compose up -d`
 
+
+![Screenshot 2025-02-21 022656](https://github.com/user-attachments/assets/c315330f-158f-43ea-8ac0-2554124cb2c2)
+
+
