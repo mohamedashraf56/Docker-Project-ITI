@@ -44,6 +44,10 @@ docker build -t mern-backend .
 
 
 #### Docker hub
-
 https://hub.docker.com/repository/docker/mohamedashrf/project/general
+
+
+![Animation](https://github.com/user-attachments/assets/a3b7a9ac-401c-4dd1-9846-a6cf252e5f70)
+
+
 
